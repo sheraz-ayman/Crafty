@@ -1,1 +1,1 @@
-[crafty](github.com/sheraz-ayman/Crafty)
+[crafty](https://github.com/sheraz-ayman/Crafty/tree/main/)
